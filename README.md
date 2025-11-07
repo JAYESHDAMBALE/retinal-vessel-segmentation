@@ -5,6 +5,9 @@ The main goal is to identify and highlight blood vessels in retinal images which
 
 I worked on this project to understand how deep learning can be applied in the medical field, especially in image segmentation tasks. The U-Net model is quite effective here since it performs pixel-level classification and gives accurate results even for thin vessel structures.
 
+<img width="2825" height="1752" alt="image" src="https://github.com/user-attachments/assets/2b131d1e-2be4-45ed-8446-35d78ba71f3a" />
+
+
 ---
 
 ## How it works
